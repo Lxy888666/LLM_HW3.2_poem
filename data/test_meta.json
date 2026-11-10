@@ -1,0 +1,17 @@
+{
+  "started_utc": "2026-11-02T06:47:39.994201+00:00",
+  "finished_utc": "2026-11-02T06:47:45.981979+00:00",
+  "stage": "test",
+  "selected_condition": "P1_task_standard",
+  "model": "deepseek-flash",
+  "base_url": "https://api.deepseek.com",
+  "temperature": 0.2,
+  "max_tokens": 2000,
+  "thinking": "disabled",
+  "development_count": 6,
+  "test_count": 4,
+  "conditions": [
+    "P1_task_standard"
+  ],
+  "records": 4
+}
